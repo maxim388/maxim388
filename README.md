@@ -14,13 +14,6 @@
         pronouns: "he" | "him",
         code: [Javascript, Typescript, HTML, CSS],
         tools: [React, Redux, Storybook, Jest, Storybook, MUI, AntDesign],
-        architecture: ["microservices", "design system pattern"],
-        techCommunities: {
-                              coorganizer: "AfroPython",
-                              speaker: "Latinity",
-                              mentor: "EducaTRANSforma"
-                            },
-       challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
       }
       ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
