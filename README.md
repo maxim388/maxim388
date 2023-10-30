@@ -1,11 +1,7 @@
-<h2> Hi, I'm Maxim Alenchikov! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Maxim and I'm Front-end developer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="230">
-<p><em>Software Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
-
-[![Linkedin: Maxim Alenchikov](https://www.linkedin.com/in/maxim-alenchikov/)
-[![GitHub Maxim Alenchikov](https://github.com/maxim388)
-
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
