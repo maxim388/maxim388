@@ -1,4 +1,4 @@
-<h2> Hi, I'm Maxim and I'm Front-end developer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Maxim and I'm Front-end developer!</h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 <img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250">
 </em></p>
 
@@ -6,10 +6,10 @@
 
  ```javascript
  const maxim = {
-       pronouns: "he" | "him",
-       code: [Javascript, Typescript, HTML, CSS],
-       tools: [React, Redux, Storybook, Jest, Storybook, MUI, AntDesign],
-       architecture: ["microservices", "design system pattern"],
+         pronouns: "he" | "him",
+         code: [Javascript, Typescript, HTML, CSS],
+         tools: [React, Redux, Storybook, Jest, Storybook, MUI, AntDesign],
+         architecture: ["microservices", "design system pattern"],
       }
  ```
 
