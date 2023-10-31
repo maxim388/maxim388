@@ -1,4 +1,4 @@
-<h2> Hi, I'm Maxim and I'm Front-end developer!
+<h2> Hi, I'm Maxim and I'm a Front-end developer!
 <!--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> -->
 </h2>
 <!-- <img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250"> -->
