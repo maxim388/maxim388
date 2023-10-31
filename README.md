@@ -10,7 +10,7 @@
  const maxim = {
          pronouns: "he" | "him",
          code: [Javascript, Typescript, HTML, CSS],
-         tools: [React, Redux, Storybook, Jest, Storybook, MUI, AntDesign],
+         tools: [React, Redux, Storybook, Jest, MUI, AntDesign],
       }
  ```
 
